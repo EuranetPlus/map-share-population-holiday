@@ -1,13 +1,12 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Ki megy tényleg nyaralni?",
+  "subtitle": "Luxemburgban volt a legmagasabb az arány 76,0%-kal, ezt követte Hollandia (75,3%) és Németország (69,2%). A legalacsonyabb érték Romániában volt 12,1%, Bulgáriában és Litvániában pedig a soraiban haladt előre.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Ez a térkép a 15 éves és idősebb lakosok azon arányát szemlélteti, akik legalább egy négy éjszakás vagy annál hosszabb személyes utat tettek 2024-ben.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
+  "customUnitLabel": "a teljes népességből",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
