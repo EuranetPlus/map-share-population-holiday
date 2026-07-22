@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kdo vlastně jede na dovolenou?",
+  "subtitle": "Nejvyšší podíl zaznamenalo Lucembursko s 76,0 %, následované Nizozemskem (75,3 %) a Německem (69,2 %). Nejnižší hodnotu mělo Rumunsko s 12,1 %, za ním následovaly Bulharsko a Litva.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Tato mapa znázorňuje podíl obyvatel ve věku 15 let a starších, kteří v roce 2024 uskutečnili alespoň jeden soukromý výlet v délce čtyř a více nocí.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "z celkové populace",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
