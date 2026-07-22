@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kas iš tikrųjų atostogauja?",
+  "subtitle": "Didžiausia dalis užfiksuota Liuksemburge – 76,0 %, po jos seka Nyderlandai (75,3 %) ir Vokietija (69,2 %). Mažiausia dalis užfiksuota Rumunijoje – 12,1 %, Bulgarijoje ir Lietuvoje.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šiame žemėlapyje vizualizuojama 15 metų ir vyresnių gyventojų, kurie 2024 m. atliko bent vieną asmeninę kelionę, trukusią keturias naktis ar ilgiau, dalis.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "visų gyventojų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
