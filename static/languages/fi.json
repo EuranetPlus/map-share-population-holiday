@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuka oikeasti lomalle lähtee?",
+  "subtitle": "Luxemburgin osuus oli suurin, 76,0 %, jota seurasivat Alankomaat (75,3 %) ja Saksa (69,2 %). Romanian osuus oli pienin, 12,1 %, Bulgarian ja Liettuan seuratessa perässä.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tämä kartta havainnollistaa niiden 15-vuotiaiden ja sitä vanhempien asukkaiden osuutta, jotka tekivät vähintään yhden neljä yötä kestäneen henkilökohtaisen matkan vuonna 2024.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "koko väestöstä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
