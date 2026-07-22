@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kdo pravzaprav gre na počitnice?",
+  "subtitle": "Luksemburg je zabeležil najvišji delež, 76,0 %, sledili sta mu Nizozemska (75,3 %) in Nemčija (69,2 %). Najnižjo vrednost je imela Romunija, 12,1 %, ter Bolgarija in Litva.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Ta zemljevid prikazuje delež prebivalcev, starih 15 let in več, ki so leta 2024 opravili vsaj eno osebno potovanje, ki je trajalo štiri noči ali več.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "celotnega prebivalstva",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
