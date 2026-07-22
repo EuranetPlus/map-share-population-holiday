@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Tko zapravo ide na odmor?",
+  "subtitle": "Luksemburg je zabilježio najveći udio od 76,0%, a slijede Nizozemska (75,3%) i Njemačka (69,2%). Rumunjska je imala najnižu vrijednost od 12,1%, a slijede je Bugarska i Litva.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ova karta prikazuje udio stanovnika u dobi od 15 i više godina koji su u 2024. godini obavili barem jedno privatno putovanje u trajanju od četiri ili više noći.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "ukupnog stanovništva",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
