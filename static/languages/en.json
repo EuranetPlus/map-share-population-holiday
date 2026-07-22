@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Who actually goes on holiday?",
+  "subtitle": "Luxembourg recorded the highest share at 76.0%, followed by the Netherlands (75.3%) and Germany (69.2%). Romania had the lowest value at 12.1%, with Bulgaria and Lithuania in tow.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "This map visualzies the share of residents aged 15 and over who made at least one personal trip lasting four nights or more in 2024.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of total population",
   "tooltipExtraInfoLabel": "Click here"
 }
