@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé a théann ar saoire i ndáiríre?",
+  "subtitle": "Bhí an sciar is airde ag Lucsamburg ag 76.0%, agus an Ísiltír (75.3%) agus an Ghearmáin (69.2%) ina diaidh. Bhí an luach is ísle ag an Rómáin ag 12.1%, agus an Bhulgáir agus an Liotuáin ina ndiaidh.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn an léarscáil seo sciar na gcónaitheoirí 15 bliana d’aois agus os a chionn a rinne turas pearsanta amháin ar a laghad a mhair ceithre oíche nó níos mó in 2024.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra iomlán",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
