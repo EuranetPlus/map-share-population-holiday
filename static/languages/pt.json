@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quem é que realmente tira férias?",
+  "subtitle": "Luxemburgo registrou a maior participação, com 76,0%, seguido pelos Países Baixos (75,3%) e pela Alemanha (69,2%). A Romênia apresentou o menor valor, com 12,1%, seguida pela Bulgária e Lituânia.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Este mapa visualiza a proporção de residentes com 15 anos ou mais que fizeram pelo menos uma viagem pessoal com duração de quatro noites ou mais em 2024.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "da população total",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
