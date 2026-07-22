@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Min fil-fatt imur vaganza?",
+  "subtitle": "Il-Lussemburgu rreġistra l-ogħla sehem b’76.0%, segwit mill-Olanda (75.3%) u l-Ġermanja (69.2%). Ir-Rumanija kellha l-inqas valur b’12.1%, bil-Bulgarija u l-Litwanja warajha.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa turi s-sehem ta’ residenti ta’ 15-il sena jew aktar li għamlu mill-inqas vjaġġ personali wieħed li dam erba’ iljieli jew aktar fl-2024.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni totali",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
