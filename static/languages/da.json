@@ -1,12 +1,12 @@
 {
   "title": "Hvem tager egentlig på ferie?",
-  "subtitle": "Luxembourg registrerede den højeste andel med 76,0 %, efterfulgt af Holland (75,3 %) og Tyskland (69,2 %). Rumænien havde den laveste værdi med 12,1 %, ledsaget af Bulgarien og Litauen.",
+  "subtitle": "Luxembourg havde den højeste andel af personer, der rejste til udlandet i mindst fire nætter, med 76 %. Holland (75 %) og Tyskland (69 %) fulgte efter. Rumænien havde det laveste tal med 12 %, med Bulgarien og Litauen ikke langt efter.",
   "textNoteDescription": "Note",
   "textNote": "Dette kort visualiserer andelen af beboere på 15 år og derover, der foretog mindst én personlig rejse af fire nætter eller mere i 2024.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af den samlede befolkning",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "af den samlede befolkning"
 }

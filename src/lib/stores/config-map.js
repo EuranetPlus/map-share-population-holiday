@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "Who actually goes on holiday?",
-  "subtitle": "Luxembourg recorded the highest share at 76.0%, followed by the Netherlands (75.3%) and Germany (69.2%). Romania had the lowest value at 12.1%, with Bulgaria and Lithuania in tow.",
+  "subtitle": "Luxembourg had the highest proportion of people travelling abroad for at least four nights, at 76%. The Netherlands (75%) and Germany (69%) followed behind. Romania had the lowest figure at 12%, with Bulgaria and Lithuania not far behind.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBelgium,BE,0.5846,false,\"\",,,,,,,,\nBulgaria,BG,0.2132,false,\"\",,,,,,,,\nCzechia,CZ,0.6017,false,\"\",,,,,,,,\nDenmark,DK,0.4295,false,\"\",,,,,,,,\nGermany,DE,0.6915,false,\"\",,,,,,,,\nEstonia,EE,0.4466,false,\"\",,,,,,,,\nIreland,IE,0.6494,false,\"\",,,,,,,,\nGreece,EL,0.4074,false,\"\",,,,,,,,\nSpain,ES,0.5459,false,\"\",,,,,,,,\nFrance,FR,0.6417,false,\"\",,,,,,,,\nCroatia,HR,0.4196,false,\"\",,,,,,,,\nItaly,IT,0.3571,false,\"\",,,,,,,,\nCyprus,CY,0.5111,false,\"\",,,,,,,,\nLatvia,LV,0.4057,false,\"\",,,,,,,,\nLithuania,LT,0.2656,false,\"\",,,,,,,,\nLuxembourg,LU,0.7598,false,\"\",,,,,,,,\nHungary,HU,0.3532,false,\"\",,,,,,,,\nMalta,MT,0.4232,false,\"\",,,,,,,,\nNetherlands,NL,0.7532,false,\"\",,,,,,,,\nAustria,AT,0.6033,false,\"\",,,,,,,,\nPoland,PL,0.4556,false,\"\",,,,,,,,\nPortugal,PT,0.3472,false,\"\",,,,,,,,\nRomania,RO,0.1207,false,\"\",,,,,,,,\nSlovenia,SI,0.5107,false,\"\",,,,,,,,\nSlovakia,SK,0.4523,false,\"\",,,,,,,,\nFinland,FI,0.5972,false,\"\",,,,,,,,\nSweden,SE,0.6055,false,\"\",,,,,,,,",
   "parsedData": [
@@ -439,7 +440,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "Who actually goes on holiday?",
-    "subtitle": "Luxembourg recorded the highest share at 76.0%, followed by the Netherlands (75.3%) and Germany (69.2%). Romania had the lowest value at 12.1%, with Bulgaria and Lithuania in tow.",
+    "subtitle": "Luxembourg had the highest proportion of people travelling abroad for at least four nights, at 76%. The Netherlands (75%) and Germany (69%) followed behind. Romania had the lowest figure at 12%, with Bulgaria and Lithuania not far behind.",
     "textNoteDescription": "Note",
     "textNote": "This map visualzies the share of residents aged 15 and over who made at least one personal trip lasting four nights or more in 2024.",
     "textSourceDescription": "Source",

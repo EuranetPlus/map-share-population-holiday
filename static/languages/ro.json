@@ -1,12 +1,12 @@
 {
   "title": "Cine merge, de fapt, în vacanță?",
-  "subtitle": "Luxemburg a înregistrat cea mai mare pondere, de 76,0%, urmată de Olanda (75,3%) și Germania (69,2%). România a avut cea mai mică valoare, de 12,1%, fiind urmată de Bulgaria și Lituania.",
+  "subtitle": "Luxemburg a avut cea mai mare proporție de persoane care au călătorit în străinătate pentru cel puțin patru nopți, de 76%. Olanda (75%) și Germania (69%) au urmat în urmă. România a avut cea mai mică cifră, de 12%, urmată de Bulgaria și Lituania.",
   "textNoteDescription": "Nota",
   "textNote": "Această hartă vizualizează ponderea locuitorilor cu vârsta de 15 ani și peste care au efectuat cel puțin o călătorie personală cu durata de patru nopți sau mai mult în 2024.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "din populația totală",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "din populația totală"
 }

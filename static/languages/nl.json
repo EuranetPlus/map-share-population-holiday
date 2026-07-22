@@ -1,12 +1,12 @@
 {
-  "title": "Wie gaat er nu eigenlijk op vakantie?",
-  "subtitle": "Luxemburg had het hoogste aandeel met 76,0%, gevolgd door Nederland (75,3%) en Duitsland (69,2%). Roemenië had de laagste waarde met 12,1%, met Bulgarije en Litouwen daar vlak achter.",
+  "title": "Wie gaat er nu echt op vakantie?",
+  "subtitle": "Luxemburg had het hoogste percentage mensen dat minstens vier nachten in het buitenland verbleef, namelijk 76%. Nederland (75%) en Duitsland (69%) volgden. Roemenië had het laagste cijfer met 12%, met Bulgarije en Litouwen niet ver daarachter.",
   "textNoteDescription": "Opmerking",
   "textNote": "Deze kaart visualiseert het percentage inwoners van 15 jaar en ouder dat in 2024 minstens één privéreis van vier nachten of langer heeft gemaakt.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "van de totale bevolking",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "van de totale bevolking"
 }

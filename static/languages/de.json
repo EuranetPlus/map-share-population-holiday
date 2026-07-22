@@ -1,12 +1,12 @@
 {
   "title": "Wer fährt denn heutzutage noch in Urlaub?",
-  "subtitle": "Luxemburg verzeichnete mit 76,0 % den höchsten Anteil, gefolgt von den Niederlanden (75,3 %) und Deutschland (69,2 %). Rumänien wies mit 12,1 % den niedrigsten Wert auf, dicht gefolgt von Bulgarien und Litauen.",
+  "subtitle": "Luxemburg verzeichnete mit 76 % den höchsten Anteil an Reisenden, die mindestens vier Nächte im Ausland verbrachten. Die Niederlande (75 %) und Deutschland (69 %) folgten. Rumänien wies mit 12 % den niedrigsten Wert auf, Bulgarien und Litauen lagen dicht dahinter.",
   "textNoteDescription": "Notiz",
   "textNote": "Diese Karte veranschaulicht den Anteil der Einwohner ab 15 Jahren, die im Jahr 2024 mindestens eine private Reise von vier Nächten oder länger unternommen haben.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "der Gesamtbevölkerung",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "der Gesamtbevölkerung"
 }

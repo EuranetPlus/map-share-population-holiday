@@ -1,12 +1,12 @@
 {
   "title": "Kas iš tikrųjų atostogauja?",
-  "subtitle": "Didžiausia dalis užfiksuota Liuksemburge – 76,0 %, po jos seka Nyderlandai (75,3 %) ir Vokietija (69,2 %). Mažiausia dalis užfiksuota Rumunijoje – 12,1 %, Bulgarijoje ir Lietuvoje.",
+  "subtitle": "Didžiausia dalis žmonių, keliaujančių į užsienį bent keturioms naktims, buvo Liuksemburge – 76 %. Nuo jų sekė Nyderlandai (75 %) ir Vokietija (69 %). Mažiausias rodiklis buvo Rumunijoje – 12 %, o Bulgarija ir Lietuva nedaug atsiliko.",
   "textNoteDescription": "Pastaba",
   "textNote": "Šiame žemėlapyje vizualizuojama 15 metų ir vyresnių gyventojų, kurie 2024 m. atliko bent vieną asmeninę kelionę, trukusią keturias naktis ar ilgiau, dalis.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "visų gyventojų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "visų gyventojų"
 }

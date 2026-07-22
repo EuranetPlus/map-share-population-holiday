@@ -1,12 +1,12 @@
 {
   "title": "Who actually goes on holiday?",
-  "subtitle": "Luxembourg recorded the highest share at 76.0%, followed by the Netherlands (75.3%) and Germany (69.2%). Romania had the lowest value at 12.1%, with Bulgaria and Lithuania in tow.",
+  "subtitle": "Luxembourg had the highest proportion of people travelling abroad for at least four nights, at 76%. The Netherlands (75%) and Germany (69%) followed behind. Romania had the lowest figure at 12%, with Bulgaria and Lithuania not far behind.",
   "textNoteDescription": "Note",
   "textNote": "This map visualzies the share of residents aged 15 and over who made at least one personal trip lasting four nights or more in 2024.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "of total population",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of total population"
 }

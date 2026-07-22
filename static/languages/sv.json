@@ -1,12 +1,12 @@
 {
   "title": "Vem åker egentligen på semester?",
-  "subtitle": "Luxemburg hade den högsta andelen med 76,0 %, följt av Nederländerna (75,3 %) och Tyskland (69,2 %). Rumänien hade den lägsta andelen med 12,1 %, följt av Bulgarien och Litauen.",
+  "subtitle": "Luxemburg hade den högsta andelen personer som reste utomlands i minst fyra nätter, med 76 %. Nederländerna (75 %) och Tyskland (69 %) följde efter. Rumänien hade den lägsta siffran med 12 %, med Bulgarien och Litauen inte långt efter.",
   "textNoteDescription": "Notera",
   "textNote": "Denna karta visualiserar andelen invånare i åldern 15 år och äldre som gjorde minst en personlig resa som varade fyra nätter eller mer under 2024.",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av den totala befolkningen",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "av den totala befolkningen"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Kto vlastne ide na dovolenku?",
-  "subtitle": "Luxembursko zaznamenalo najvyšší podiel so 76,0 %, nasledované Holandskom (75,3 %) a Nemeckom (69,2 %). Najnižšiu hodnotu malo Rumunsko s 12,1 %, za ním nasledovali Bulharsko a Litva.",
+  "subtitle": "Luxembursko malo najvyšší podiel ľudí cestujúcich do zahraničia na aspoň štyri noci, a to 76 %. Nasledovali Holandsko (75 %) a Nemecko (69 %). Rumunsko malo najnižší podiel s 12 % a Bulharsko a Litva nezaostávali oveľa viac.",
   "textNoteDescription": "Poznámka",
   "textNote": "Táto mapa zobrazuje podiel obyvateľov vo veku 15 a viac rokov, ktorí v roku 2024 uskutočnili aspoň jeden súkromný výlet trvajúci štyri alebo viac nocí.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "z celkovej populácie",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "z celkovej populácie"
 }

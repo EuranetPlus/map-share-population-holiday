@@ -1,12 +1,12 @@
 {
   "title": "Cé a théann ar saoire i ndáiríre?",
-  "subtitle": "Bhí an sciar is airde ag Lucsamburg ag 76.0%, agus an Ísiltír (75.3%) agus an Ghearmáin (69.2%) ina diaidh. Bhí an luach is ísle ag an Rómáin ag 12.1%, agus an Bhulgáir agus an Liotuáin ina ndiaidh.",
+  "subtitle": "Bhí an cion is airde daoine ag taisteal thar lear ar feadh ceithre oíche ar a laghad i Lucsamburg, ag 76%. Lean an Ísiltír (75%) agus an Ghearmáin (69%) ina ndiaidh. Bhí an figiúr is ísle ag an Rómáin, ag 12%, agus ní raibh an Bhulgáir ná an Liotuáin i bhfad taobh thiar díobh.",
   "textNoteDescription": "Nóta",
   "textNote": "Léiríonn an léarscáil seo sciar na gcónaitheoirí 15 bliana d’aois agus os a chionn a rinne turas pearsanta amháin ar a laghad a mhair ceithre oíche nó níos mó in 2024.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "den daonra iomlán",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "den daonra iomlán"
 }

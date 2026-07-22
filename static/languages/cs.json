@@ -1,12 +1,12 @@
 {
   "title": "Kdo vlastně jede na dovolenou?",
-  "subtitle": "Nejvyšší podíl zaznamenalo Lucembursko s 76,0 %, následované Nizozemskem (75,3 %) a Německem (69,2 %). Nejnižší hodnotu mělo Rumunsko s 12,1 %, za ním následovaly Bulharsko a Litva.",
+  "subtitle": "Lucembursko mělo nejvyšší podíl lidí cestujících do zahraničí na alespoň čtyři noci, a to 76 %. Následovaly Nizozemsko (75 %) a Německo (69 %). Nejnižší podíl mělo Rumunsko s 12 % a Bulharsko a Litva nebyly o moc pozadu.",
   "textNoteDescription": "Poznámka",
   "textNote": "Tato mapa znázorňuje podíl obyvatel ve věku 15 let a starších, kteří v roce 2024 uskutečnili alespoň jeden soukromý výlet v délce čtyř a více nocí.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
   "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "z celkové populace",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "z celkové populace"
 }

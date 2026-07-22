@@ -1,12 +1,12 @@
 {
   "title": "Kuka oikeasti lomalle lähtee?",
-  "subtitle": "Luxemburgin osuus oli suurin, 76,0 %, jota seurasivat Alankomaat (75,3 %) ja Saksa (69,2 %). Romanian osuus oli pienin, 12,1 %, Bulgarian ja Liettuan seuratessa perässä.",
+  "subtitle": "Luxemburgissa oli suurin osuus ulkomaille vähintään neljäksi yöksi matkustavista, 76 %. Alankomaat (75 %) ja Saksa (69 %) seurasivat perässä. Romaniassa luku oli pienin, 12 %, ja Bulgaria ja Liettua eivät olleet kaukana perässä.",
   "textNoteDescription": "Huomautus",
   "textNote": "Tämä kartta havainnollistaa niiden 15-vuotiaiden ja sitä vanhempien asukkaiden osuutta, jotka tekivät vähintään yhden neljä yötä kestäneen henkilökohtaisen matkan vuonna 2024.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "koko väestöstä",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "koko väestöstä"
 }

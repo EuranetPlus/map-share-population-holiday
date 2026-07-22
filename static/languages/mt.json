@@ -1,12 +1,12 @@
 {
   "title": "Min fil-fatt imur vaganza?",
-  "subtitle": "Il-Lussemburgu rreġistra l-ogħla sehem b’76.0%, segwit mill-Olanda (75.3%) u l-Ġermanja (69.2%). Ir-Rumanija kellha l-inqas valur b’12.1%, bil-Bulgarija u l-Litwanja warajha.",
+  "subtitle": "Il-Lussemburgu kellu l-ogħla proporzjon ta’ nies li vvjaġġaw barra minn pajjiżhom għal mill-inqas erbat iljieli, b’76%. L-Olanda (75%) u l-Ġermanja (69%) segwew warajhom. Ir-Rumanija kellha l-inqas ċifra b’12%, bil-Bulgarija u l-Litwanja mhux wisq ’il bogħod warajhom.",
   "textNoteDescription": "Nota",
   "textNote": "Din il-mappa turi s-sehem ta’ residenti ta’ 15-il sena jew aktar li għamlu mill-inqas vjaġġ personali wieħed li dam erba’ iljieli jew aktar fl-2024.",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "tal-popolazzjoni totali",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "customUnitLabel": "tal-popolazzjoni totali"
 }

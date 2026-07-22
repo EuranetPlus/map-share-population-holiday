@@ -1,12 +1,12 @@
 {
   "title": "Kdo pravzaprav gre na počitnice?",
-  "subtitle": "Luksemburg je zabeležil najvišji delež, 76,0 %, sledili sta mu Nizozemska (75,3 %) in Nemčija (69,2 %). Najnižjo vrednost je imela Romunija, 12,1 %, ter Bolgarija in Litva.",
+  "subtitle": "Luksemburg je imel najvišji delež ljudi, ki so potovali v tujino vsaj štiri noči, in sicer 76 %. Sledili sta Nizozemska (75 %) in Nemčija (69 %). Romunija je imela najnižji delež, 12 %, Bolgarija in Litva pa nista veliko zaostajali.",
   "textNoteDescription": "Opomba",
   "textNote": "Ta zemljevid prikazuje delež prebivalcev, starih 15 let in več, ki so leta 2024 opravili vsaj eno osebno potovanje, ki je trajalo štiri noči ali več.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "celotnega prebivalstva",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "celotnega prebivalstva"
 }

@@ -1,12 +1,12 @@
 {
   "title": "¿Quién se va de vacaciones en realidad?",
-  "subtitle": "Luxemburgo registró la mayor proporción, con un 76,0%, seguido de los Países Bajos (75,3%) y Alemania (69,2%). Rumanía obtuvo el valor más bajo, con un 12,1%, seguida de Bulgaria y Lituania.",
+  "subtitle": "Luxemburgo registró la mayor proporción de personas que viajaron al extranjero durante al menos cuatro noches, con un 76%. Le siguieron los Países Bajos (75%) y Alemania (69%). Rumanía presentó la cifra más baja, con un 12%, seguida de cerca por Bulgaria y Lituania.",
   "textNoteDescription": "Nota",
   "textNote": "Este mapa muestra la proporción de residentes mayores de 15 años que realizaron al menos un viaje personal de cuatro noches o más en 2024.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "de la población total",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "de la población total"
 }

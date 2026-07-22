@@ -1,12 +1,12 @@
 {
   "title": "Ki megy tényleg nyaralni?",
-  "subtitle": "Luxemburgban volt a legmagasabb az arány 76,0%-kal, ezt követte Hollandia (75,3%) és Németország (69,2%). A legalacsonyabb érték Romániában volt 12,1%, Bulgáriában és Litvániában pedig a soraiban haladt előre.",
+  "subtitle": "Luxemburgban volt a legmagasabb a legalább négy éjszakára külföldre utazók aránya, 76%. Hollandia (75%) és Németország (69%) követte őket. Romániában a legalacsonyabb volt az arány, 12%, Bulgária és Litvánia pedig nem sokkal maradt le mögötte.",
   "textNoteDescription": "Jegyzet",
   "textNote": "Ez a térkép a 15 éves és idősebb lakosok azon arányát szemlélteti, akik legalább egy négy éjszakás vagy annál hosszabb személyes utat tettek 2024-ben.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "a teljes népességből",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "a teljes népességből"
 }

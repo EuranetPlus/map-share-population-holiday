@@ -1,12 +1,12 @@
 {
   "title": "Quem é que realmente tira férias?",
-  "subtitle": "Luxemburgo registrou a maior participação, com 76,0%, seguido pelos Países Baixos (75,3%) e pela Alemanha (69,2%). A Romênia apresentou o menor valor, com 12,1%, seguida pela Bulgária e Lituânia.",
+  "subtitle": "Luxemburgo apresentou a maior proporção de pessoas viajando para o exterior por pelo menos quatro noites, com 76%. Os Países Baixos (75%) e a Alemanha (69%) vieram em seguida. A Romênia teve o menor índice, com 12%, seguida de perto pela Bulgária e Lituânia.",
   "textNoteDescription": "Observação",
   "textNote": "Este mapa visualiza a proporção de residentes com 15 anos ou mais que fizeram pelo menos uma viagem pessoal com duração de quatro noites ou mais em 2024.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
   "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "da população total",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "da população total"
 }

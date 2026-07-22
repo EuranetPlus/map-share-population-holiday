@@ -1,12 +1,12 @@
 {
   "title": "Kto tak naprawdę jedzie na wakacje?",
-  "subtitle": "Najwyższy udział odnotował Luksemburg – 76,0%, następnie Holandia (75,3%) i Niemcy (69,2%). Najniższy odsetek odnotowano w Rumunii – 12,1%, a na kolejnych miejscach znalazły się Bułgaria i Litwa.",
+  "subtitle": "Luksemburg odnotował najwyższy odsetek osób wyjeżdżających za granicę na co najmniej cztery noce – 76%. Niższe miejsca zajęły Holandia (75%) i Niemcy (69%). Najniższy odsetek odnotowano w Rumunii – 12%, a tuż za nią uplasowały się Bułgaria i Litwa.",
   "textNoteDescription": "Notatka",
   "textNote": "Mapa przedstawia odsetek mieszkańców w wieku 15 lat i starszych, którzy w 2024 r. odbyli co najmniej jedną podróż prywatną trwającą cztery noce lub dłużej.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "całkowitej populacji",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "całkowitej populacji"
 }

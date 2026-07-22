@@ -1,12 +1,12 @@
 {
   "title": "Kurš īsti dodas atvaļinājumā?",
-  "subtitle": "Vislielākā daļa bija Luksemburgā — 76,0 %, tai sekoja Nīderlande (75,3 %) un Vācija (69,2 %). Viszemākā vērtība bija Rumānijā — 12,1 %, un tai sekoja Bulgārija un Lietuva.",
+  "subtitle": "Luksemburgā bija vislielākais to cilvēku īpatsvars, kuri ceļoja uz ārzemēm vismaz uz četrām naktīm — 76 %. Nīderlandē (75 %) un Vācijā (69 %) sekoja zemākais rādītājs — 12 %, un Bulgārijā un Lietuvā tas nebija tālu.",
   "textNoteDescription": "Piezīme",
   "textNote": "Šajā kartē ir vizualizēta to iedzīvotāju daļa vecumā no 15 gadiem, kuri 2024. gadā veica vismaz vienu personisku ceļojumu, kas ilga četras vai vairāk naktis.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "no kopējā iedzīvotāju skaita",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "no kopējā iedzīvotāju skaita"
 }

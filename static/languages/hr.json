@@ -1,12 +1,12 @@
 {
   "title": "Tko zapravo ide na odmor?",
-  "subtitle": "Luksemburg je zabilježio najveći udio od 76,0%, a slijede Nizozemska (75,3%) i Njemačka (69,2%). Rumunjska je imala najnižu vrijednost od 12,1%, a slijede je Bugarska i Litva.",
+  "subtitle": "Luksemburg je imao najveći udio ljudi koji su putovali u inozemstvo na najmanje četiri noći, sa 76%. Nizozemska (75%) i Njemačka (69%) slijedile su ih. Rumunjska je imala najnižu brojku s 12%, a Bugarska i Litva nisu puno zaostajale.",
   "textNoteDescription": "Bilješka",
   "textNote": "Ova karta prikazuje udio stanovnika u dobi od 15 i više godina koji su u 2024. godini obavili barem jedno privatno putovanje u trajanju od četiri ili više noći.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "ukupnog stanovništva",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "ukupnog stanovništva"
 }

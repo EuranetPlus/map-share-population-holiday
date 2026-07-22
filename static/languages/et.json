@@ -1,12 +1,12 @@
 {
   "title": "Kes siis tegelikult puhkusele läheb?",
-  "subtitle": "Luksemburgis registreeriti suurim osakaal 76,0%, järgnesid Holland (75,3%) ja Saksamaa (69,2%). Madalaim oli Rumeenia väärtus 12,1%, Bulgaaria ja Leeduga.",
+  "subtitle": "Luksemburgis oli suurim vähemalt neljaks ööks välismaale reisivate inimeste osakaal, 76%. Järgnesid Holland (75%) ja Saksamaa (69%). Madalaim oli näitaja Rumeenias, 12%, Bulgaaria ja Leedu ei jäänud palju maha.",
   "textNoteDescription": "Märkus",
   "textNote": "See kaart visualiseerib 15-aastaste ja vanemate elanike osakaalu, kes tegid 2024. aastal vähemalt ühe isikliku reisi, mis kestis neli ööd või kauem.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "kogu elanikkonnast",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "kogu elanikkonnast"
 }

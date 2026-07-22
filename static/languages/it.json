@@ -1,12 +1,12 @@
 {
   "title": "Chi va davvero in vacanza?",
-  "subtitle": "Il Lussemburgo ha registrato la quota più alta, pari al 76,0%, seguito dai Paesi Bassi (75,3%) e dalla Germania (69,2%). La Romania ha registrato il valore più basso, pari al 12,1%, seguita da Bulgaria e Lituania.",
+  "subtitle": "Il Lussemburgo ha registrato la percentuale più alta di persone che hanno viaggiato all'estero per almeno quattro notti, pari al 76%. Seguono i Paesi Bassi (75%) e la Germania (69%). La Romania ha registrato la cifra più bassa, con il 12%, seguita a breve distanza da Bulgaria e Lituania.",
   "textNoteDescription": "Nota",
   "textNote": "Questa mappa visualizza la percentuale di residenti di età pari o superiore a 15 anni che hanno effettuato almeno un viaggio personale della durata di quattro notti o più nel 2024.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "della popolazione totale",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "della popolazione totale"
 }
