@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Vem åker egentligen på semester?",
+  "subtitle": "Luxemburg hade den högsta andelen med 76,0 %, följt av Nederländerna (75,3 %) och Tyskland (69,2 %). Rumänien hade den lägsta andelen med 12,1 %, följt av Bulgarien och Litauen.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visualiserar andelen invånare i åldern 15 år och äldre som gjorde minst en personlig resa som varade fyra nätter eller mer under 2024.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av den totala befolkningen",
   "tooltipExtraInfoLabel": "Klicka här"
 }
